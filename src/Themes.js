@@ -1,0 +1,17 @@
+export const darkTheme = {
+  body: '#15151E',
+  elevation_1: '#1E1E27',
+  elevation_2: '#282830',
+  elevation_3: '#3A3A42',
+  elevation_4: '#4C4C5C',
+  text: '#C1C1C6',
+  text_2: '#A0A0A8',
+  icon: '#7F7F8B',
+  iconHover: '#CCCBFF',
+  hoverBgColor: '#3D3D4E',
+  primary: '#5553FF',
+  primaryHover: '#8887FF',
+  border_1: '#2E2E40',
+  border_2: '#313139',
+  shadow: '0 2px 5px 1px #111',
+};
